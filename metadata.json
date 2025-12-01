@@ -1,0 +1,7 @@
+{
+  "name": "Voice Improv Battle",
+  "description": "A real-time voice improv battle application using Gemini Live API with an Indian female persona.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
